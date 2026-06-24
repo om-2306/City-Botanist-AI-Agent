@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Dandelion",
+    "name_hindi": "सिंहपर्णी (Singhparni)",
+    "name_telugu": "సింహదంష్ట్రిక / పత్రి (Simhadamstrika / Patri)",
+    "scientific_name": "Taraxacum officinale",
+    "edible": true,
+    "lookalikes": ["Catsear", "Sow Thistle"],
+    "toxicity_warnings": "None. Extremely safe for general foraging. Ensure they are not gathered from areas sprayed with pesticides or high-dog-traffic zones.",
+    "description": "A very common urban herb. All parts of the plant are edible: leaves, roots, and flowers. High in vitamins A, C, and K."
+  },
+  {
+    "name": "Wild Garlic",
+    "name_hindi": "जंगली लहसुन (Jangali Lahsun)",
+    "name_telugu": "అడవి వెల్లుల్లి (Adavi Vellulli)",
+    "scientific_name": "Allium ursinum",
+    "edible": true,
+    "lookalikes": ["Lily of the Valley", "Autumn Crocus"],
+    "toxicity_warnings": "Lookalikes Lily of the Valley and Autumn Crocus are highly toxic and potentially lethal. Ensure the leaves smell strongly of garlic/onion when crushed.",
+    "description": "A bulbous perennial flowering plant that grows in moist woodlands. Leaves have a mild garlic taste and are commonly used in salads, soups, or pesto."
+  },
+  {
+    "name": "Stinging Nettle",
+    "name_hindi": "बिच्छू बूटी (Bichhu Buti)",
+    "name_telugu": "దురదగొండి (Duradagondi)",
+    "scientific_name": "Urtica dioica",
+    "edible": true,
+    "lookalikes": ["Dead-nettle"],
+    "toxicity_warnings": "Stinging hairs contain formic acid which causes skin irritation. Must be cooked, dried, or thoroughly crushed to neutralize stings before eating.",
+    "description": "A herbaceous perennial plant. Rich in iron, calcium, and vitamin A. Leaves make excellent teas, soups, or cooked greens similar to spinach."
+  },
+  {
+    "name": "Himalayan Blackberry",
+    "name_hindi": "ब्लैकबेरी (Blackberry)",
+    "name_telugu": "బ్లాక్ బెర్రీ (Blackberry)",
+    "scientific_name": "Rubus armeniacus",
+    "edible": true,
+    "lookalikes": ["Dewberry", "Salmonberry"],
+    "toxicity_warnings": "Thorns can cause scratches. Berries near roads should be washed thoroughly due to vehicle emissions.",
+    "description": "An invasive but highly productive bramble. Produces delicious, sweet black berries in late summer. Highly popular for urban foraging."
+  },
+  {
+    "name": "Garlic Mustard",
+    "name_hindi": "लहसुन सरसों (Lahsun Sarson)",
+    "name_telugu": "వెల్లుల్లి ఆవాలు (Vellulli Aavaalu)",
+    "scientific_name": "Alliaria petiolata",
+    "edible": true,
+    "lookalikes": ["Ground Ivy", "Mustard greens"],
+    "toxicity_warnings": "Contains small amounts of cyanide; safe in typical food quantities but should not be eaten in massive amounts raw daily.",
+    "description": "An invasive biennial herb in North America. Leaves taste like a combination of garlic and mustard. Removing it helps native ecosystems."
+  },
+  {
+    "name": "Common Purslane",
+    "name_hindi": "कुल्फा (Kulfa)",
+    "name_telugu": "గంగవల్లి కూర (Gangavalli Kura)",
+    "scientific_name": "Portulaca oleracea",
+    "edible": true,
+    "lookalikes": ["Spurge"],
+    "toxicity_warnings": "Spurge lookalike is toxic and has milky sap. Crushed purslane does not exude milky sap and has thick, fleshy, succulent stems.",
+    "description": "A succulent annual trailing plant. Leaves are crispy, salty, and slightly sour. Exceptionally high in Omega-3 fatty acids."
+  },
+  {
+    "name": "Common Wood Sorrel",
+    "name_hindi": "चांगेरी (Changeri)",
+    "name_telugu": "పులిచింత (Pulichinta)",
+    "scientific_name": "Oxalis acetosella",
+    "edible": true,
+    "lookalikes": ["Clover"],
+    "toxicity_warnings": "Contains oxalic acid. Safe in moderate amounts, but people with kidney disease or gout should avoid large quantities.",
+    "description": "A small trifoliate plant. Leaves have a bright, refreshing lemon-like flavor. Excellent garnish for salads and fish dishes."
+  },
+  {
+    "name": "Ground Ivy",
+    "name_hindi": "ग्राउंड आईवी (Ground Ivy)",
+    "name_telugu": "గ్రౌండ్ ఐవీ (Ground Ivy)",
+    "scientific_name": "Glechoma hederacea",
+    "edible": true,
+    "lookalikes": ["Garlic Mustard", "Common Mallow"],
+    "toxicity_warnings": "Contains volatile oils. Mildly aromatic. Safe in moderation as tea or culinary seasoning, but avoid excessive quantities.",
+    "description": "An aromatic creeping evergreen plant of the mint family. Historically used for brewing ale and making herbal teas."
+  },
+  {
+    "name": "Poison Ivy",
+    "name_hindi": "विष-लता (Vish-lata)",
+    "name_telugu": "పాయిజన్ ఐవీ (Poison Ivy)",
+    "scientific_name": "Toxicodendron radicans",
+    "edible": false,
+    "lookalikes": ["Box Elder", "Virginia Creeper"],
+    "toxicity_warnings": "EXTREMELY TOXIC ON CONTACT AND DIGESTION. Contains urushiol, an oil that causes severe, itchy, and painful skin inflammation and blisters. Do not touch or consume.",
+    "description": "A woody deciduous vine. Leaves grow in clusters of three ('leaves of three, let it be'). Never consume or burn the wood."
+  },
+  {
+    "name": "Lily of the Valley",
+    "name_hindi": "घाटी की लिली (Ghati ki Lily)",
+    "name_telugu": "లిలీ ఆఫ్ ది వ్యాలీ (Lily of the Valley)",
+    "scientific_name": "Convallaria majalis",
+    "edible": false,
+    "lookalikes": ["Wild Garlic", "Wild Leeks"],
+    "toxicity_warnings": "HIGHLY TOXIC AND LETHAL. Contains cardiac glycosides (including convallatoxin) which cause irregular heartbeat, vomiting, confusion, and death. Do not consume.",
+    "description": "A woodland plant with sweetly scented, pendent, bell-shaped white flowers. Highly dangerous lookalike to edible ramps and wild garlic."
+  },
+  {
+    "name": "Poison Hemlock",
+    "name_hindi": "हेमलॉक (Hemlock) / विषैला हेमलॉक",
+    "name_telugu": "హేమ్‌లాక్ (Hemlock)",
+    "scientific_name": "Conium maculatum",
+    "edible": false,
+    "lookalikes": ["Wild Carrot / Queen Anne's Lace", "Yarrow", "Wild Parsnip"],
+    "toxicity_warnings": "DEADLY TOXIC. Contains coniine, which attacks the nervous system and causes respiratory paralysis and death. Even small amounts can be fatal. Distinguishing mark: purple-spotted hairless stems.",
+    "description": "A highly toxic biennial herbaceous flowering plant. Stems are smooth and purple-spotted, unlike the hairy stems of edible wild carrots."
+  },
+  {
+    "name": "Foxglove",
+    "name_hindi": "फॉक्सग्लोव (Foxglove)",
+    "name_telugu": "ఫాక్స్ గ్లోవ్ (Foxglove)",
+    "scientific_name": "Digitalis purpurea",
+    "edible": false,
+    "lookalikes": ["Comfrey", "Borage"],
+    "toxicity_warnings": "HIGHLY TOXIC AND POTENTIALLY FATAL. Contains digitoxin and digoxin, cardiac glycosides that cause vomiting, cardiac arrhythmias, and heart block. Do not consume.",
+    "description": "A tall biennial herb featuring spikes of bell-shaped pink-purple flowers with mottled interiors. Extremely dangerous lookalike to comfrey."
+  },
+  {
+    "name": "Pokeweed",
+    "name_hindi": "पोकवीड (Pokeweed)",
+    "name_telugu": "పోక్‌వీడ్ (Pokeweed)",
+    "scientific_name": "Phytolacca americana",
+    "edible": false,
+    "lookalikes": ["Elderberry"],
+    "toxicity_warnings": "TOXIC. Contains phytolaccatoxin. Leaves are sometimes eaten after multiple boilings (poke sallet), but raw leaves, berries, and especially roots are highly toxic, causing severe gastrointestinal distress and convulsions. Foragers should avoid it entirely.",
+    "description": "A large herbaceous perennial plant with dark purple berries and magenta-colored stems. Berries look deceptively like elderberries."
+  },
+  {
+    "name": "Deadly Nightshade",
+    "name_hindi": "बेलाडोना (Belladonna)",
+    "name_telugu": "బెల్లడోనా (Belladonna)",
+    "scientific_name": "Atropa belladonna",
+    "edible": false,
+    "lookalikes": ["Garden Blueberry", "Huckleberry"],
+    "toxicity_warnings": "EXTREMELY TOXIC AND FATAL. Contains tropane alkaloids (atropine, scopolamine) causing dilated pupils, racing pulse, hallucinations, convulsions, and respiratory failure. Consumption of 2-5 berries can kill a child.",
+    "description": "A branching perennial herbaceous shrub. Produces shiny black, cherry-sized berries. One of the most toxic plants in the Eastern Hemisphere."
+  },
+  {
+    "name": "White Baneberry",
+    "name_hindi": "व्हाइट बेनबेरी (White Baneberry)",
+    "name_telugu": "వైట్ బేన్‌బెర్రీ (White Baneberry)",
+    "scientific_name": "Actaea pachypoda",
+    "edible": false,
+    "lookalikes": ["Elderberry"],
+    "toxicity_warnings": "HIGHLY TOXIC AND POTENTIALLY LETHAL. Contains cardiogenic toxins that cause immediate sedative effects on cardiac muscle tissue, leading to cardiac arrest and death. Do not consume.",
+    "description": "Also known as 'Doll's Eyes' due to the striking appearance of its white berries with dark pupil-like spots on red stalks."
+  }
+]

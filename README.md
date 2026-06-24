@@ -1,7 +1,5 @@
 # City Botanist 🌿
 
-An intelligent, multi-agent urban foraging assistant designed for the **Kaggle AI Agents: Intensive Vibe Coding Capstone** (Freestyle Track). 
-
 City Botanist helps urban foragers identify plants from images AND determine if they are safe to eat by cross-referencing municipal pesticide spraying schedules, soil contamination archives, and real-time weather forecasts.
 
 ---
